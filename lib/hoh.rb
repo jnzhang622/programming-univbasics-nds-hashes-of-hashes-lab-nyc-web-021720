@@ -50,6 +50,5 @@ labels = {:Label => "Kingdom", :sub_category => {
           :Label => "Genus", :sub_category => {
             :Label => "Species"
           }}}}}}}
-puts labels
 return labels
 end
