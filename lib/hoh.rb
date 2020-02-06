@@ -43,5 +43,5 @@ def naming_system
   # HoH all the way to Species!
   
 labels = {"Kingdom":{"Phylum":{"Class":{"Order":{"Family":{"Genus":{"Species":[]}}}}}}}
-return labels
+puts labels
 end
