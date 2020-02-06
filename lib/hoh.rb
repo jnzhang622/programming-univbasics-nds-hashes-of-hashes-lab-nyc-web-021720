@@ -44,4 +44,5 @@ def naming_system
   
 labels = {"Kingdom":{"Phylum":{"Class":{"Order":{"Family":{"Genus":{"Species":{}}}}}}}}
 puts labels
+return labels
 end
