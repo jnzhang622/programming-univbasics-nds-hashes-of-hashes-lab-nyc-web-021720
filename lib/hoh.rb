@@ -46,10 +46,10 @@ labels = {:Label => "Kingdom", :sub_category => {
   :Label => "Phylum", :sub_category => {
     :Label => "Class", :sub_category => {
       :Label => "Order", :sub_category => {
-      :Label => "Family", :sub_category => {
-        :Label => "Genus", :sub_category => {
-          :Label => "Species"
-        }}}}}}}
+        :Label => "Family", :sub_category => {
+          :Label => "Genus", :sub_category => {
+            :Label => "Species"
+          }}}}}}}
 puts labels
 return labels
 end
