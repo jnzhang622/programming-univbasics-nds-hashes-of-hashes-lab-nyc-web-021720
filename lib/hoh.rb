@@ -42,7 +42,7 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
   
-labels = {:Label => "Kingdom",{:Label => "Phylum",{:Label => "Class",{:Label => "Order",{:Label => "Family",{:Label => "Genus",{:Label => "Species"}}}}}}}
+labels = {:Label => "Kingdom"{:Label => "Phylum"{:Label => "Class"{:Label => "Order"{:Label => "Family"{:Label => "Genus"{:Label => "Species"}}}}}}}
 puts labels
 return labels
 end
